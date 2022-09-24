@@ -1,0 +1,28 @@
+library(stars)
+library(raster)
+library(conflicted)
+library(readxl)
+library(writexl)
+library(osrm)
+library(cartography)
+library(classInt)
+library(maptiles)
+library(mapsf)
+library(RPostgreSQL)
+library(spdep)
+library(spatialreg)
+library(lattice)
+library(RANN)
+library(RColorBrewer)
+library(tmap)
+library(GWmodel)
+library(officer)
+library(magrittr)
+library(baseflow)
+library(grwat)
+library(sf) # reading and manipulating spatial data
+library(tidyverse) # general data wrangling
+library(mapview) # interactive mapping of spatial data
+library(ecmwfr) # this is to access ERA5 reanalysis data
+library(grwat)
+library(devtools)
